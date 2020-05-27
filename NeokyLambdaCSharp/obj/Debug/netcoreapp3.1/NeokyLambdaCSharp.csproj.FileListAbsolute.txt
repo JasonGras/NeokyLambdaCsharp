@@ -1,0 +1,12 @@
+C:\Users\Jas\source\repos\NeokyLambdaCSharp\NeokyLambdaCSharp\bin\Debug\netcoreapp3.1\NeokyLambdaCSharp.deps.json
+C:\Users\Jas\source\repos\NeokyLambdaCSharp\NeokyLambdaCSharp\bin\Debug\netcoreapp3.1\NeokyLambdaCSharp.runtimeconfig.json
+C:\Users\Jas\source\repos\NeokyLambdaCSharp\NeokyLambdaCSharp\bin\Debug\netcoreapp3.1\NeokyLambdaCSharp.runtimeconfig.dev.json
+C:\Users\Jas\source\repos\NeokyLambdaCSharp\NeokyLambdaCSharp\bin\Debug\netcoreapp3.1\NeokyLambdaCSharp.dll
+C:\Users\Jas\source\repos\NeokyLambdaCSharp\NeokyLambdaCSharp\obj\Debug\netcoreapp3.1\NeokyLambdaCSharp.csprojAssemblyReference.cache
+C:\Users\Jas\source\repos\NeokyLambdaCSharp\NeokyLambdaCSharp\obj\Debug\netcoreapp3.1\NeokyLambdaCSharp.AssemblyInfoInputs.cache
+C:\Users\Jas\source\repos\NeokyLambdaCSharp\NeokyLambdaCSharp\obj\Debug\netcoreapp3.1\NeokyLambdaCSharp.AssemblyInfo.cs
+C:\Users\Jas\source\repos\NeokyLambdaCSharp\NeokyLambdaCSharp\obj\Debug\netcoreapp3.1\NeokyLambdaCSharp.genruntimeconfig.cache
+C:\Users\Jas\source\repos\NeokyLambdaCSharp\NeokyLambdaCSharp\bin\Debug\netcoreapp3.1\NeokyLambdaCSharp.pdb
+C:\Users\Jas\source\repos\NeokyLambdaCSharp\NeokyLambdaCSharp\obj\Debug\netcoreapp3.1\NeokyLambdaCSharp.dll
+C:\Users\Jas\source\repos\NeokyLambdaCSharp\NeokyLambdaCSharp\obj\Debug\netcoreapp3.1\NeokyLambdaCSharp.pdb
+C:\Users\Jas\source\repos\NeokyLambdaCSharp\NeokyLambdaCSharp\obj\Debug\netcoreapp3.1\NeokyLambdaCSharp.csproj.CoreCompileInputs.cache

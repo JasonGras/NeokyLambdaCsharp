@@ -1,0 +1,21 @@
+{
+  version: '1',
+  region: 'eu-west-2',
+  userPoolId: 'eu-west-2_94Z0C8kSe',
+  userName: 'jgrttt',
+  callerContext: {
+    awsSdkVersion: 'aws-sdk-dotnet-coreclr-3.3.4.3',
+    clientId: '3bhdmui3jhhs8oocu5ts88pl2'
+  },
+  triggerSource: 'PostConfirmation_ConfirmForgotPassword',
+  request: {
+    userAttributes: {
+      sub: '80227e98-0a14-4133-b60d-46ac3f51257t',
+      'cognito:email_alias': 'JGRTTT@yopmail.com',
+      'cognito:user_status': 'CONFIRMED',
+      email_verified: 'true',
+      email: 'JGRTTT@yopmail.com'
+    }
+  },
+  response: {}
+}
